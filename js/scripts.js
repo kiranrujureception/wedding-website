@@ -184,20 +184,20 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Kiran and Ruju's Wedding",
+            title: "Kiran and Ruju's Reception",
 
             // Event start date
-            start: new Date('Aug 1, 2020 16:00'),
+            start: new Date('Aug 2, 2020 17:30'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('Aug 2, 2020 00:00'),
+            end: new Date('Aug 3, 2020 00:00'),
 
             // Event Address
-            address: '321 Scarborough Golf Club Rd, Scarborough, ON M1J 3H2, Canada',
+            address: '2901 Markham Rd, Toronto, ON M1X 0B6',
 
             // Event Description
             description: "We can't wait to see you on the big day!"
